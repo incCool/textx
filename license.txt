@@ -1,4 +1,4 @@
 all rights resvered
 stupid boss
 add branch
-Creating a new branch is ...
+Creating a branch is quick and simple.
